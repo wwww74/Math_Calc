@@ -1,0 +1,10 @@
+D:\Projects\Math_Calc\Math_Calc\bin\Debug\Math_Calc.exe.config
+D:\Projects\Math_Calc\bin\Debug\Math_Calc.exe.config
+D:\Projects\Math_Calc\bin\Debug\Math_Calc.exe
+D:\Projects\Math_Calc\bin\Debug\Math_Calc.pdb
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.csprojResolveAssemblyReference.cache
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.Form1.resources
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.Properties.Resources.resources
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.csproj.GenerateResource.Cache
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.exe
+D:\Projects\Math_Calc\obj\Debug\Math_Calc.pdb
